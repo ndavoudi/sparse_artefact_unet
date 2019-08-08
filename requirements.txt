@@ -1,0 +1,8 @@
+GPU GTX 1080Ti
+Python 2.7
+numpy>=1.13.1
+GCC 7.2
+Nvidia 410
+Cuda 9
+Theano 1.0.3
+Lasagne 0.2.dev1
