@@ -5,12 +5,8 @@ This repository contains the code of sparse reconstruction artefact removal with
 ## Requirements
 
 
-## Running the code
+### Running the code
 
-### Training
-
-
-### Testing
 
 You can downloed a trained model by running the script "download_pretrained_model_32.sh" 
 ```
